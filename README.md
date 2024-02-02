@@ -1,3 +1,4 @@
+I created my first Android application.
 This is a simple android app, using Firebase for database data and for authentification.
 I called this app "LECKER FOOD" 
 I wanted to create a friendly interface from where you can order food.
